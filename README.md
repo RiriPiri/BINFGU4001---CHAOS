@@ -188,9 +188,9 @@ This project is for academic purposes only.
 
 ## Contact
 
-For questions or collaborations, please contact: [Your Email]
+For questions or collaborations, please contact: rp3333@columbia.edu
 
 ---
 
 **Project Status:** ✅ Complete  
-**Last Updated:** November 2024
+**Last Updated:** November 2025
